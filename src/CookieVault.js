@@ -1,4 +1,4 @@
-export default class CookieStorage {
+export default class CookieVault {
   static getItem(sKey) {
     if (!sKey) {
       return null
