@@ -1,6 +1,6 @@
 {
   "name": "js-vault",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Javascript storage vaults",
   "main": "dist/index.js",
   "repository": "https://github.com/knipferrc/js-vault.git",
