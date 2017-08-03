@@ -1,0 +1,18 @@
+{
+  "name": "js-vault",
+  "version": "0.0.1",
+  "description": "Javascript storage vaults",
+  "main": "index.js",
+  "repository": "https://github.com/knipferrc/js-vault.git",
+  "author": "knipferrc <knipferrc@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "rimraf dist && babel src -d dist"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "rimraf": "^2.6.1"
+  }
+}
